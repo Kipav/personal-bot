@@ -1,0 +1,15 @@
+python-dotenv
+openai
+
+langchain
+langchain-community
+langchain-openai
+
+chromadb
+pysqlite3-binary
+
+pypdf2
+
+tiktoken
+
+streamlit 
